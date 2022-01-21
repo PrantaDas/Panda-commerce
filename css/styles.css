@@ -1,0 +1,29 @@
+.container{
+    margin-bottom: 100px;
+}
+.b-color{
+    background-color: #FEEAE9;
+}
+.btn-style{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    border-radius: 6px;
+    color: white;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #FF136F;
+}
+.clr1{
+    background-color: orange;
+    color: white;
+}
+.clr2{
+    background-color: orchid;
+    color: white;
+}
+.clr3{
+    background-color: blue;
+    color: white;
+}
